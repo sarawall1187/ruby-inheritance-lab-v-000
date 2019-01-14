@@ -21,7 +21,7 @@ some_knowledge = avi.teach
 
 steve.learn(some_knowledge)
 
-puts "#{Student.first_name} just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
+puts "#{Student.first_name}" just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
 
 
 
