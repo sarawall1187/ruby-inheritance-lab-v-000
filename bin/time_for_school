@@ -16,7 +16,6 @@ Jim = Student.new
 Jim.first_name = "Jim"
 Jim.last_name = "Bone"
 
-Jim.learn(some_knowledge)
 
 some_knowledge = avi.teach 
 
@@ -27,3 +26,5 @@ puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' fr
 
 
 
+
+Jim.learn(some_knowledge)
