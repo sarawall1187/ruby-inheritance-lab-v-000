@@ -20,10 +20,10 @@ Jim.last_name = "Bone"
 some_knowledge = avi.teach 
 
 steve.learn(some_knowledge)
-
+Jim.learn(some_knowledge)
 puts "#{Student.first_name}" just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
 
 
-Jim.learn(some_knowledge)
+
 
 
